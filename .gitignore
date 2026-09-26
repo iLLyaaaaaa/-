@@ -1,0 +1,14 @@
+# Local scratch files
+/work/
+
+# Other experiments and unrelated scripts
+/outputs/chaoxing-copy-fix.user.js
+/outputs/chaoxing-video-mouseout-guard.user.js
+
+# Editor, dependency, and OS artifacts
+.vscode/
+.idea/
+node_modules/
+*.log
+.DS_Store
+Thumbs.db
